@@ -5,7 +5,6 @@ A simple web application that helps students calculate their CGPA or percentage 
 ## 🚀 Live Demo
 
 [🔗 View the App on GitHub Pages](https://pranamya2425.github.io/CGPA-and-Percentage-Calculator/)  
-*(Update this link after deploying)*
 
 ---
 
@@ -37,5 +36,4 @@ A simple web application that helps students calculate their CGPA or percentage 
    git clone https://github.com/pranamya2425/CGPA-and-Percentage-Calculator.git
 2. Navigate to the project folder, cd CGPA-and-Percentage-Calculator
 3. Open index.html in any browser.
-   
    
