@@ -2,7 +2,7 @@
 
 A simple web application that helps students calculate their CGPA or percentage based on their academic level — Class 10, Intermediate, or B.Tech. Built using HTML, CSS, JavaScript, and Bootstrap.
 
-## 🚀 Live Demo
+##  Live Demo
 
 [🔗 View the App on GitHub Pages](https://pranamya2425.github.io/CGPA-and-Percentage-Calculator/)  
 
