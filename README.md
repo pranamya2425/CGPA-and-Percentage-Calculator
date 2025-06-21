@@ -7,7 +7,6 @@ A simple web application that helps students calculate their CGPA or percentage 
 [🔗 View the App on GitHub Pages](https://pranamya2425.github.io/CGPA-and-Percentage-Calculator/)  
 
 ---
-
 ## ✨ Features
 
 - 🎓 Choose academic level: Class 10th, Intermediate, or B.Tech
